@@ -6,7 +6,7 @@
 - 💻 I’m open to collaborate on projects related to software development and testing.
 - 📫 How to reach me:
   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jinal-dave)
-  - Email: davejinal990@gmail.com
+  - Email: jinaldave990@gmail.com
 
 <!---
 davejinal/davejinal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
